@@ -1,1 +1,1 @@
-print('cu')
+import flask
